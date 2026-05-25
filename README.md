@@ -8,5 +8,6 @@ score on a txt file, as well as the username of the player who achieved the high
 score, on different txt file.
 
 To run this program, select NewtonAppleDodgeGame.java as the main file.
+Make sure that "newton.png" is in a folder called "Images".
 
 My goal for this project was to better understand how to work with Java Swing.
